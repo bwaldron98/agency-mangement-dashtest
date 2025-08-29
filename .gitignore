@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+api/Ams.Api/App_Data/*.db
+
+# Node
+web/node_modules/
+web/dist/
+
+# Vite
+web/.vite/
+
+# LLBLGen
+api/Ams.Data/Generated/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
